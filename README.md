@@ -6,15 +6,12 @@ ECE 309
 9/5/18
 
 
-1. Homework 2
-
-    a. Fork repository
-    
-        A. Enter URL given by homework assignment
-        B. Clicked fork button
-        C. Renamed respository
-        D. Added instructor and TAs as collaborators
-        
-    b. Edited this file
+Homework 2
+* Fork repository
+  * Enter URL given by homework assignment
+  * Clicked fork button
+  * Renamed respository
+  * Added instructor and TAs as collaborators
+* Edited this file
         
     
